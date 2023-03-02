@@ -27,9 +27,11 @@ Users should be able to:
 - Click links and buttons
 ### Screenshot
 - Desktop View 
-![Alt text](S![Alt text](Screenshot%202023-03-01%20at%2022-52-23%20Order%20Summary%20Front-end%20Mentor.png)
-- Mobile View 
+![Alt text](Screenshot%202023-03-01%20at%2021-58-03%20Order%20Summary%20Front-end%20Mentor.png)
+
+- Mobile View
 ![Alt text](Screenshot%202023-03-01%20at%2022-52-23%20Order%20Summary%20Front-end%20Mentor.png)
+
 
 ### Links
 
