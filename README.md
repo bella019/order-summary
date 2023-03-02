@@ -38,6 +38,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS Media Query
 
 ### What I learned
 
@@ -61,6 +62,6 @@ I would love to continue with the concept of using flexboxes and Css grid proper
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture - This helped with picture inserting
 
 ## Author
-
+- Name: Adebayo Goodness
 - Frontend Mentor - [@@bella019](https://www.frontendmentor.io/profile/@bella019)
 
